@@ -1,2 +1,3 @@
-# prime-chat-app-hqja
-A real-time chat application for modern development workflows
+# Prime Chat App Hqja
+
+A real-time chat application for modern development workflows.
